@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">POS WaWi Café</string>
+    <string name="nav_pos">Kasse</string>
+    <string name="nav_inventory">Waren</string>
+    <string name="nav_employees">Mitarbeiter</string>
+    <string name="nav_reports">Berichte</string>
+    <string name="nav_settings">Einstellungen</string>
+    <string name="action_add">Hinzufügen</string>
+    <string name="action_edit">Bearbeiten</string>
+    <string name="action_delete">Löschen</string>
+    <string name="placeholder_search">Suche…</string>
+    <string name="label_total">Gesamt</string>
+    <string name="label_tax">MwSt.</string>
+    <string name="label_discount">Rabatt</string>
+    <string name="label_customer">Kunde</string>
+    <string name="label_payment_method">Zahlart</string>
+    <string name="label_cash">Bar</string>
+    <string name="label_card">Karte</string>
+    <string name="label_wallet">Gutschein / Wallet</string>
+    <string name="label_parked_orders">Geparkte Bons</string>
+    <string name="label_check_in">Check-in</string>
+    <string name="label_check_out">Check-out</string>
+    <string name="label_role_admin">Admin</string>
+    <string name="label_role_cashier">Kassierer</string>
+    <string name="label_role_temp">Aushilfe</string>
+    <string name="label_inventory_warning">Niedriger Bestand</string>
+    <string name="label_top_sellers">Top Seller</string>
+    <string name="label_reports_daily">Tagesbericht</string>
+    <string name="label_reports_monthly">Monatsbericht</string>
+    <string name="label_reports_export">Exportieren</string>
+    <string name="label_language">Sprache</string>
+    <string name="label_discount_apply">Rabatt anwenden</string>
+    <string name="label_loyalty">Stammkunden</string>
+    <string name="label_sync_status">Offline Synchronisation</string>
+</resources>

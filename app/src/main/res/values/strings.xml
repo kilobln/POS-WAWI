@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">POS WaWi Café</string>
+    <string name="nav_pos">POS</string>
+    <string name="nav_inventory">Inventory</string>
+    <string name="nav_employees">Staff</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_settings">Settings</string>
+    <string name="action_add">Add</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="placeholder_search">Search…</string>
+    <string name="label_total">Total</string>
+    <string name="label_tax">VAT</string>
+    <string name="label_discount">Discount</string>
+    <string name="label_customer">Customer</string>
+    <string name="label_payment_method">Payment</string>
+    <string name="label_cash">Cash</string>
+    <string name="label_card">Card</string>
+    <string name="label_wallet">Voucher / Wallet</string>
+    <string name="label_parked_orders">Parked receipts</string>
+    <string name="label_check_in">Check-in</string>
+    <string name="label_check_out">Check-out</string>
+    <string name="label_role_admin">Admin</string>
+    <string name="label_role_cashier">Cashier</string>
+    <string name="label_role_temp">Temp</string>
+    <string name="label_inventory_warning">Low stock</string>
+    <string name="label_top_sellers">Top sellers</string>
+    <string name="label_reports_daily">Daily report</string>
+    <string name="label_reports_monthly">Monthly report</string>
+    <string name="label_reports_export">Export</string>
+    <string name="label_language">Language</string>
+    <string name="label_discount_apply">Apply discount</string>
+    <string name="label_loyalty">Loyalty</string>
+    <string name="label_sync_status">Offline sync</string>
+</resources>
